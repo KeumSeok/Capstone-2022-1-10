@@ -23,7 +23,7 @@ Email :
 
 ### 3. 구성도
 
-프로젝트 결과물의 개괄적인 동작을 파악할 수 있는 이미지와 글을 작성하세요.
+![캡처](https://user-images.githubusercontent.com/84324994/195822654-b9441f56-1cc6-4f22-acf3-5920edb28dfd.JPG)
 
 ### 4. 소개 및 시연 영상
 
