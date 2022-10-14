@@ -21,7 +21,7 @@ Email : kdcson0613 at pusan dot ac dot kr
 ## 역할   
 ![캡처](https://user-images.githubusercontent.com/84324994/195821371-c78db898-81ff-491f-add6-efb930aec0e7.JPG)
 
-### 3. 소개 
+### 3. 과제 내용 및 결론
 
 ![캡처](https://user-images.githubusercontent.com/84324994/195822654-b9441f56-1cc6-4f22-acf3-5920edb28dfd.JPG)
 
