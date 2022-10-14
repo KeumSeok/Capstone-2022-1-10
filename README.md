@@ -10,15 +10,15 @@
     2. 이후, 선택 된 Feature를 통해 더 높은 성능(더 낮은 RMSE)을 갖는 모델을 개발한다.
     3. 이를 통해 엔진의 보전 방식을 TBM에서 CBM(Condition Based Maintenance)으로 전환 할 수 있는 근거를 제시한다.
 
-### 2. 팀 소개
-
+### 2. 팀 소개  
+## 팀원  
 * 강 금석  
 Email : GoldRiver0 at pusan dot ac dot kr 
 
 * 김 민수  
 Email : 
 
-* 역할   
+## 역할   
 ![캡처](https://user-images.githubusercontent.com/84324994/195821371-c78db898-81ff-491f-add6-efb930aec0e7.JPG)
 
 ### 3. 구성도
