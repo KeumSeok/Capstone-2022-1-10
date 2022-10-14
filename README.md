@@ -12,9 +12,11 @@
 
 ### 2. 팀 소개
 
-* 조장 : 강 금석
+* 강 금석  
+Email : GoldRiver0 at pusan dot ac dot kr 
 
-* 조원 : 김 민수
+* 김 민수  
+Email : 
 
 * 역할   
 ![캡처](https://user-images.githubusercontent.com/84324994/195821371-c78db898-81ff-491f-add6-efb930aec0e7.JPG)
