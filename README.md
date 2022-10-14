@@ -17,8 +17,7 @@
 * 조원 : 김 민수
 
 * 역할 
-https://github.com/KeumSeok/Capstone-2022-1-10/issues/1#issue-1409102652
-프로젝트에 참여한 팀원들의 이름, 이메일, 역할를 포함해 팀원들을 소개하세요.
+![캡처](https://user-images.githubusercontent.com/84324994/195821371-c78db898-81ff-491f-add6-efb930aec0e7.JPG)
 
 ### 3. 구성도
 
