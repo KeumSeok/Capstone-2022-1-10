@@ -16,7 +16,7 @@
 
 * 조원 : 김 민수
 
-* 역할 
+* 역할   
 ![캡처](https://user-images.githubusercontent.com/84324994/195821371-c78db898-81ff-491f-add6-efb930aec0e7.JPG)
 
 ### 3. 구성도
